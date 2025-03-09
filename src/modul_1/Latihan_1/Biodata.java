@@ -1,8 +1,8 @@
-package Latihan_1;
+package modul_1.Latihan_1;
 
 import java.time.LocalDate;
 
-public class DataDiri {
+public class Biodata {
     public static void main(String[] args) {
 
         String namaLengkap = "Lia Amanda";

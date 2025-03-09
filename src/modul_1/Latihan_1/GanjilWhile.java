@@ -1,4 +1,4 @@
-package Latihan_1;
+package modul_1.Latihan_1;
 
 public class GanjilWhile {
     public static void main(String[] args) {
